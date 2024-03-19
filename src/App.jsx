@@ -7,7 +7,8 @@ import 'bootstrap/dist/css/bootstrap.min.css'; // Ensure Bootstrap CSS is import
 import './App.css'; // Adjust the path based on your file structure
 import Logo from './logo.svg';
 
-const API = '/netflix/assets/video/api.json';
+const API = '/Netflix/assets/video/api.json';
+
 
 function App() {
   const [videos, setVideos] = useState([]);

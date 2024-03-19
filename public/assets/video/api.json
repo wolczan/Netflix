@@ -4,32 +4,32 @@
     "title": "Movie Title 1",
     "description": "Description of Movie 1",
     "trailerUrl": "https://www.example.com/trailers/movie1.mp4",
-    "video": "/netflix/assets/video/miki.mp4",
-    "cover": "/netflix/assets/video/pic1.jpg"
+    "video": "/Netflix/assets/video/miki.mp4",
+    "cover": "/Netflix/assets/video/pic1.jpg"
   },
   {
     "id": 2,
     "title": "Movie Title 2",
     "description": "Description of Movie 2",
     "trailerUrl": "https://www.example.com/trailers/movie2.mp4",
-    "video": "/netflix/assets/video/cytrynka.mp4",
-    "cover": "/netflix/assets/video/pic2.jpg"
+    "video": "/Netflix/assets/video/cytrynka.mp4",
+    "cover": "/Netflix/assets/video/pic2.jpg"
   },
   {
     "id": 3,
     "title": "Mikolaj profile picture",
     "description": "Im 2 years old",
     "trailerUrl": "https://www.example.com/trailers/kon1.mp4",
-    "video": "/netflix/assets/video/kon2.mp4",
-    "cover": "/netflix/assets/video/miki2.jpg"
+    "video": "/Netflix/assets/video/kon2.mp4",
+    "cover": "/Netflix/assets/video/miki2.jpg"
   },
     {
       "id": 4,
       "title": "Mikolaj at Grandpas",
       "description": "Im 2years old happy boy",
       "trailerUrl": "https://www.example.com/trailers/kon1.mp4",
-      "video": "/netflix/assets/video/miki.mp4",
-      "cover" : "/netflix/assets/video/miki3.jpg",
+      "video": "/Netflix/assets/video/miki.mp4",
+      "cover" : "/Netflix/assets/video/miki3.jpg",
       "altText": "Movie Title 1 cover image"
     },
     {
@@ -37,8 +37,8 @@
       "title": "Przedszkole Miejskie",
       "description": "Grupa Bombelków",
       "trailerUrl": "https://www.example.com/trailers/kon1.mp4",
-      "video": "/netflix/assets/video/kon1.mp4",
-      "cover" : "/netflix/assets/video/motylki.jpg ",
+      "video": "/Netflix/assets/video/kon1.mp4",
+      "cover" : "/Netflix/assets/video/motylki.jpg ",
       "altText": "Movie Title 1 cover image"
     },
     {
@@ -46,8 +46,8 @@
       "title": "Maciej Liberadzki",
       "description": "Main image",
       "trailerUrl": "https://www.example.com/trailers/kon1.mp4",
-      "video": "/netflix/assets/video/kon1.mp4",
-      "cover" : "/netflix/assets/video/zdjecie6.jpg ", 
+      "video": "/Netflix/assets/video/kon1.mp4",
+      "cover" : "/Netflix/assets/video/zdjecie6.jpg ", 
       "altText": "Movie Title 1 cover image"
     }
 
