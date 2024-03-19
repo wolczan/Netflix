@@ -1,35 +1,35 @@
 [
-    {
-      "id": 1,
-      "title": "Movie Title 1",
-      "description": "Description of Movie 1",
-      "trailerUrl": "https://www.example.com/trailers/movie1.mp4",
-      "video": "/src/assets/basta.mp4",
-      "cover" : "/src/assets/pic1.jpg"
-    },
-    {
-      "id": 2,
-      "title": "Movie Title 2",
-      "description": "Description of Movie 2",
-      "trailerUrl": "https://www.example.com/trailers/movie2.mp4",
-      "video": "/src/assets/cytrynka.mp4",
-      "cover" : "/src/assets/pic2.jpg"
-    },
-    {
-      "id": 3,
-      "title": "50 Cent in Concert Atlas Arena Lodz",
-      "description": "Busta Rhymes",
-      "trailerUrl": "https://www.example.com/trailers/kon1.mp4",
-      "video": "/src/assets/kon2.mp4",
-      "cover" : "/src/assets/miki2.jpg"
-    },
+  {
+    "id": 1,
+    "title": "Movie Title 1",
+    "description": "Description of Movie 1",
+    "trailerUrl": "https://www.example.com/trailers/movie1.mp4",
+    "video": "/netflix/assets/video/miki.mp4",
+    "cover": "/netflix/assets/video/pic1.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Movie Title 2",
+    "description": "Description of Movie 2",
+    "trailerUrl": "https://www.example.com/trailers/movie2.mp4",
+    "video": "/netflix/assets/video/cytrynka.mp4",
+    "cover": "/netflix/assets/video/pic2.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Mikolaj profile picture",
+    "description": "Im 2 years old",
+    "trailerUrl": "https://www.example.com/trailers/kon1.mp4",
+    "video": "/netflix/assets/video/kon2.mp4",
+    "cover": "/netflix/assets/video/miki2.jpg"
+  },
     {
       "id": 4,
-      "title": "50 Cent in Concert Atlas Arena Lodz",
-      "description": "Busta Rhymes",
+      "title": "Mikolaj at Grandpas",
+      "description": "Im 2years old happy boy",
       "trailerUrl": "https://www.example.com/trailers/kon1.mp4",
-      "video": "/src/assets/miki.mp4",
-      "cover" : "/src/assets/miki3.jpg",
+      "video": "/netflix/assets/video/miki.mp4",
+      "cover" : "/netflix/assets/video/miki3.jpg",
       "altText": "Movie Title 1 cover image"
     },
     {
@@ -37,8 +37,8 @@
       "title": "Przedszkole Miejskie",
       "description": "Grupa Bombelków",
       "trailerUrl": "https://www.example.com/trailers/kon1.mp4",
-      "video": "/src/assets/kon1.mp4",
-      "cover" : "/src/assets/motylki.jpg ",
+      "video": "/netflix/assets/video/kon1.mp4",
+      "cover" : "/netflix/assets/video/motylki.jpg ",
       "altText": "Movie Title 1 cover image"
     },
     {
@@ -46,8 +46,8 @@
       "title": "Maciej Liberadzki",
       "description": "Main image",
       "trailerUrl": "https://www.example.com/trailers/kon1.mp4",
-      "video": "/src/assets/kon1.mp4",
-      "cover" : "/src/assets/zdjecie6.jpg ",
+      "video": "/netflix/assets/video/kon1.mp4",
+      "cover" : "/netflix/assets/video/zdjecie6.jpg ", 
       "altText": "Movie Title 1 cover image"
     }
 

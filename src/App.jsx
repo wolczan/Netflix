@@ -5,8 +5,9 @@ import Nav from 'react-bootstrap/Nav';
 import Navbar from 'react-bootstrap/Navbar';
 import 'bootstrap/dist/css/bootstrap.min.css'; // Ensure Bootstrap CSS is imported
 import './App.css'; // Adjust the path based on your file structure
+import Logo from './logo.svg';
 
-const API = '/assets/video/api.json';
+const API = '/netflix/assets/video/api.json';
 
 function App() {
   const [videos, setVideos] = useState([]);
@@ -38,7 +39,7 @@ function App() {
     <>
       <Navbar bg="dark" variant="dark" expand="lg" className="navbar-custom">
         <Container className="justify-content-between">
-          <Navbar.Brand href="#home"> <img src="/logo.svg" width="80" height="80" className="d-inline-block " alt="Netflix Logo"/> Library</Navbar.Brand>
+          <Navbar.Brand href="#home"> <img src={Logo} width="80" height="80" className="d-inline-block " alt="Netflix Logo"/> Library</Navbar.Brand>
           <Nav className="">
             <Nav.Link href="#home" className="nav-link-custom">Home</Nav.Link>
             <Nav.Link href="#home" className="nav-link-custom">About</Nav.Link>
